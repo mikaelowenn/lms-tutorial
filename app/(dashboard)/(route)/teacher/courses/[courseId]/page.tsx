@@ -5,6 +5,7 @@ import { IconBadge } from "../../../../../../components/icon-badge";
 import { LayoutDashboard } from "lucide-react";
 
 import { TitleForm } from "./_components/title-form";
+
 const CourseIdPage = async ({
     params 
 }: {

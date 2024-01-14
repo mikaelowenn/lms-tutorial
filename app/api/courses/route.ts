@@ -17,7 +17,6 @@ export async function POST(
                 title,
             }
         });
-
         return NextResponse.json(course);
     }
     catch (error) {
